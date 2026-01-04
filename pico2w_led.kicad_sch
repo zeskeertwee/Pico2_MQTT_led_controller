@@ -2476,6 +2476,12 @@
 		(uuid "3b28b34b-c1a1-40a9-94c2-60f8f884a124")
 	)
 	(junction
+		(at 31.75 165.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4896168c-6f7e-4e30-9812-d33c64f03671")
+	)
+	(junction
 		(at 219.71 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2500,6 +2506,18 @@
 		(uuid "a62553b6-53b6-4b4a-b615-8c02e7a80bcd")
 	)
 	(junction
+		(at 31.75 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2b3a0a1-3d4e-475e-8b5a-3d075411be7a")
+	)
+	(junction
+		(at 31.75 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c0a757ac-0581-4bcd-ac85-dd906a3059ea")
+	)
+	(junction
 		(at 204.47 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2518,6 +2536,26 @@
 			(type default)
 		)
 		(uuid "04126fe8-3a3a-498f-b411-1411cd1668de")
+	)
+	(wire
+		(pts
+			(xy 31.75 173.99) (xy 31.75 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0733a932-d397-4e06-af31-1b8ac7c55f19")
+	)
+	(wire
+		(pts
+			(xy 31.75 153.67) (xy 31.75 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cb96126-7a59-4c91-b47b-0d10fed83a53")
 	)
 	(wire
 		(pts
@@ -2731,6 +2769,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 144.78) (xy 31.75 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a489a8b-a6fa-446f-9ae3-1fde1bbd6b96")
+	)
+	(wire
+		(pts
 			(xy 204.47 88.9) (xy 219.71 88.9)
 		)
 		(stroke
@@ -2841,7 +2889,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 124.46) (xy 34.29 124.46)
+			(xy 27.94 124.46) (xy 31.75 124.46)
 		)
 		(stroke
 			(width 0)
@@ -2861,6 +2909,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 124.46) (xy 34.29 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9131be5e-1255-4b60-bd88-ca5740ac63cc")
+	)
+	(wire
+		(pts
 			(xy 39.37 104.14) (xy 43.18 104.14)
 		)
 		(stroke
@@ -2871,7 +2929,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 144.78) (xy 34.29 144.78)
+			(xy 27.94 144.78) (xy 31.75 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2881,7 +2939,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 165.1) (xy 34.29 165.1)
+			(xy 27.94 165.1) (xy 31.75 165.1)
 		)
 		(stroke
 			(width 0)
@@ -3021,6 +3079,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 165.1) (xy 31.75 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bea1c878-8b03-4b68-9834-e257e5c7a656")
+	)
+	(wire
+		(pts
 			(xy 142.24 118.11) (xy 142.24 120.65)
 		)
 		(stroke
@@ -3028,6 +3096,16 @@
 			(type default)
 		)
 		(uuid "c0cb80cb-17dd-4d2e-9593-c11097f97fd7")
+	)
+	(wire
+		(pts
+			(xy 31.75 133.35) (xy 31.75 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1a91d42-e0f9-4268-bcd6-17dbd2855f91")
 	)
 	(wire
 		(pts
@@ -3051,6 +3129,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 124.46) (xy 31.75 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfc802a1-2247-4d6e-aeeb-16bc6be7c36a")
+	)
+	(wire
+		(pts
 			(xy 219.71 88.9) (xy 219.71 97.79)
 		)
 		(stroke
@@ -3068,6 +3156,26 @@
 			(type default)
 		)
 		(uuid "d625af57-2749-4497-93ef-c64c11039d1d")
+	)
+	(wire
+		(pts
+			(xy 31.75 144.78) (xy 34.29 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d71dfdf1-6754-4764-a864-810ce9ce44d6")
+	)
+	(wire
+		(pts
+			(xy 31.75 165.1) (xy 34.29 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db9c649c-b546-4d82-afe8-4668290d3b64")
 	)
 	(wire
 		(pts
@@ -3431,6 +3539,72 @@
 			(project "pico2w_led"
 				(path "/970a0f32-999c-4b3c-9723-030848ee5955"
 					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 31.75 154.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0be66287-d167-45cc-9522-6f99079ae9e6")
+		(property "Reference" "#PWR022"
+			(at 31.75 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 31.75 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 31.75 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 31.75 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c9a09043-832e-4674-a09c-4fd92d11f062")
+		)
+		(instances
+			(project "pico2w_led"
+				(path "/970a0f32-999c-4b3c-9723-030848ee5955"
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -3912,6 +4086,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 31.75 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "42f883a0-a743-4148-a5bb-fea82fdd50dc")
+		(property "Reference" "#PWR021"
+			(at 31.75 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 31.75 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 31.75 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 31.75 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4d2a3a99-8ed3-4497-8e14-a975187bd74e")
+		)
+		(instances
+			(project "pico2w_led"
+				(path "/970a0f32-999c-4b3c-9723-030848ee5955"
+					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 223.52 88.9 270)
 		(unit 1)
@@ -4259,6 +4499,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 31.75 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "680c763d-3426-439c-8b61-2e2c4b0dacbe")
+		(property "Reference" "R3"
+			(at 34.29 128.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 34.29 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 29.972 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "SFR18EZPJ103"
+			(at 31.75 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 31.75 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d9d23990-ed1c-4e89-92ab-b68d7dd79863")
+		)
+		(pin "2"
+			(uuid "e4f4317a-128f-4d83-a41c-af50ff11024c")
+		)
+		(instances
+			(project "pico2w_led"
+				(path "/970a0f32-999c-4b3c-9723-030848ee5955"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+12V")
 		(at 138.43 118.11 90)
 		(unit 1)
@@ -4320,6 +4630,142 @@
 			(project "pico2w_led"
 				(path "/970a0f32-999c-4b3c-9723-030848ee5955"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 31.75 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "687651a2-dbd0-4c07-8fde-dd188c1e23ac")
+		(property "Reference" "#PWR023"
+			(at 31.75 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 31.75 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 31.75 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 31.75 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "89421cd6-88f6-4182-8437-af9c813bc3f4")
+		)
+		(instances
+			(project "pico2w_led"
+				(path "/970a0f32-999c-4b3c-9723-030848ee5955"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 31.75 170.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "69d2c312-18b4-42b1-8edc-16cba3d11cbe")
+		(property "Reference" "R5"
+			(at 34.29 168.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 34.29 171.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 29.972 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "SFR18EZPJ103"
+			(at 31.75 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 31.75 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "757b7520-fc61-4e03-8dfc-49d728c61077")
+		)
+		(pin "2"
+			(uuid "152aece7-1cc2-4bb5-9a7e-b8d5ca5fbdab")
+		)
+		(instances
+			(project "pico2w_led"
+				(path "/970a0f32-999c-4b3c-9723-030848ee5955"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -4859,6 +5305,76 @@
 			(project "pico2w_led"
 				(path "/970a0f32-999c-4b3c-9723-030848ee5955"
 					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 31.75 149.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8dac6de0-8df4-49d0-9f78-09f99402cf28")
+		(property "Reference" "R4"
+			(at 34.29 148.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 34.29 151.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 29.972 149.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "SFR18EZPJ103"
+			(at 31.75 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 31.75 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c5a8e1b-eb6b-4184-9602-3518150db2bb")
+		)
+		(pin "2"
+			(uuid "6dd2a712-ca80-4c26-8086-ff44dc8f92ec")
+		)
+		(instances
+			(project "pico2w_led"
+				(path "/970a0f32-999c-4b3c-9723-030848ee5955"
+					(reference "R4")
 					(unit 1)
 				)
 			)
